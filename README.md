@@ -1,4 +1,4 @@
-# EXP 02 - CREATING A COMMERCIAL WEBSITE USING HTML & CSS
+# EXP 02 - COMMERCIAL WEBSITE
 ## AIM:
 
 To create a commercial website using html and css.
